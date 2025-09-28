@@ -25,7 +25,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("📦 Sistema de Inventario (Google Sheets + Imágenes en Drive)")
+st.title("📦 Sistema de Inventario materiales Ensolcaribe")
 st.caption("Campos mínimos: Cantidad, Descripción, Observación e Imagen.")
 
 
